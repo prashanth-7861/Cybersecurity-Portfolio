@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { Send, Mail, MapPin, Phone, Linkedin, Github, ExternalLink, Terminal, CheckCircle } from 'lucide-react';
+import { Send, Mail, MapPin, Phone, Linkedin, Github, Terminal, CheckCircle } from 'lucide-react';
 
 const Contact = () => {
   const [isVisible, setIsVisible] = useState(false);

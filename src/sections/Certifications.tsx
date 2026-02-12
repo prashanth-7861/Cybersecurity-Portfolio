@@ -17,7 +17,7 @@ const certificationsData: Certification[] = [
     id: 1,
     name: 'Certified Ethical Hacker (C|EH v12)',
     provider: 'EC-Council',
-    status: 'Trained',
+    status: 'completed',
     date: '2024',
     description: 'Comprehensive ethical hacking and penetration testing certification from an EC-Council Accredited Training Center.',
     icon: Shield,
