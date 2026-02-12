@@ -143,7 +143,7 @@ const Certifications = () => {
                     {cert.status === 'completed' ? (
                       <div className="flex items-center gap-1 px-2 py-1 bg-[#00ff41]/10 border border-[#00ff41]/30">
                         <CheckCircle className="w-3 h-3 text-[#00ff41]" />
-                        <span className="font-mono text-xs text-[#00ff41]">VERIFIED</span>
+                        <span className="font-mono text-xs text-[#00ff41]">Trained</span>
                       </div>
                     ) : (
                       <div className="flex items-center gap-1 px-2 py-1 bg-[#00f0ff]/10 border border-[#00f0ff]/30">

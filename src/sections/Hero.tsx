@@ -194,7 +194,7 @@ const Hero = () => {
               <Lock className="w-6 h-6 text-[#00ff41]" />
             </div>
             <div className="font-mono text-2xl md:text-3xl font-bold text-[#00ff41]">C|EH</div>
-            <div className="font-mono text-xs text-[#a0a0a0] uppercase tracking-wider">Certified</div>
+            <div className="font-mono text-xs text-[#a0a0a0] uppercase tracking-wider">Trained</div>
           </div>
         </div>
       </div>

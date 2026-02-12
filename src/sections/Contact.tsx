@@ -238,7 +238,7 @@ const Contact = () => {
 
               <div className="flex gap-4">
                 {[
-                  { icon: Linkedin, label: 'LinkedIn', href: 'www.linkedin.com/in/mudigondaprashanth' },
+                  { icon: Linkedin, label: 'LinkedIn', href: 'https://linkedin.com/in/mudigondaprashanth' },
                   { icon: Github, label: 'GitHub', href: 'https://github.com/prashanth-7861' },
                   
                 ].map((social) => (
