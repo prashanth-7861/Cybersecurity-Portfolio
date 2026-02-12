@@ -202,9 +202,9 @@ const Contact = () => {
             {/* Contact Cards */}
             <div className="grid gap-4">
               {[
-                { icon: Mail, label: 'Email', value: 'contact@securityanalyst.dev', color: '#00ff41' },
-                { icon: Phone, label: 'Phone', value: '+1 (555) 000-0000', color: '#00f0ff' },
-                { icon: MapPin, label: 'Location', value: 'Montgomery, AL, USA', color: '#00ff41' },
+                { icon: Mail, label: 'Email', value: '57.farrow-tine@icloud.com', color: '#00ff41' },
+                { icon: Phone, label: 'Phone', value: '+1 (XXX) XXX-XXXX', color: '#00f0ff' },
+                { icon: MapPin, label: 'Location', value: 'Alpharetta, GA, USA', color: '#00ff41' },
               ].map((item, index) => (
                 <div
                   key={item.label}
@@ -238,9 +238,9 @@ const Contact = () => {
 
               <div className="flex gap-4">
                 {[
-                  { icon: Linkedin, label: 'LinkedIn', href: '#' },
+                  { icon: Linkedin, label: 'LinkedIn', href: 'www.linkedin.com/in/mudigondaprashanth' },
                   { icon: Github, label: 'GitHub', href: 'https://github.com/prashanth-7861' },
-                  { icon: ExternalLink, label: 'Portfolio', href: '#' },
+                  
                 ].map((social) => (
                   <a
                     key={social.label}

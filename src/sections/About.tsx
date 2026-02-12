@@ -62,7 +62,7 @@ Comfortable operating at the systems level—kernel parameters, service hardenin
     { icon: Award, label: 'GPA', value: '3.79', color: '#00ff41' },
     { icon: BookOpen, label: 'Lab Hours', value: '1000+', color: '#00f0ff' },
     { icon: Target, label: 'Focus', value: 'Security', color: '#00ff41' },
-    { icon: User, label: 'Status', value: 'C|EH v12', color: '#00f0ff' },
+    { icon: User, label: 'Trained', value: 'C|EH v12', color: '#00f0ff' },
   ];
 
   return (
@@ -97,7 +97,7 @@ Comfortable operating at the systems level—kernel parameters, service hardenin
             <span className="font-mono text-sm text-[#00ff41] uppercase tracking-widest">Identity Verification</span>
           </div>
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold">
-            <span className="text-gradient">IDENTITY_VERIFY</span>
+            <span className="text-gradient">PRASHANTH_MUDIGONDA</span>
           </h2>
         </div>
 

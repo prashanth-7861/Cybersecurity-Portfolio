@@ -5,8 +5,8 @@ const Footer = () => {
 
   const socialLinks = [
     { icon: Github, href: 'https://github.com/prashanth-7861', label: 'GitHub' },
-    { icon: Linkedin, href: '#', label: 'LinkedIn' },
-    { icon: Mail, href: '#contact', label: 'Email' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/mudigondaprashanth', label: 'LinkedIn' },
+    { icon: Mail, href: '#contact', label: '57.farrow-tine@icloud.com' },
   ];
 
   const quickLinks = [
@@ -116,7 +116,7 @@ const Footer = () => {
             <div className="flex items-center gap-2 text-sm text-[#a0a0a0]">
               <Terminal className="w-4 h-4 text-[#00ff41]" />
               <span className="font-mono">
-                &copy; {currentYear} Security Analyst Portfolio
+                &copy; {currentYear} Prashanth Mudigonda's Portfolio
               </span>
             </div>
 
@@ -128,7 +128,7 @@ const Footer = () => {
             </div>
 
             <div className="font-mono text-xs text-[#a0a0a0]">
-              <span className="text-[#00ff41]">C|EH</span> v12 Certified
+              <span className="text-[#00ff41]">C|EH</span> v12 Trained
             </div>
           </div>
         </div>
